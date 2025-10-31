@@ -75,10 +75,10 @@ Open your browser and navigate to:
 🖊️ Edit Content:
 Modify index.html to include your name, university, courses, and other personal details.
 ---
-### 🖼️ Change Image:
+🖼️ Change Image:
 Replace profile.jpg with your own profile or background image.
 ---
-### 🎨 Style Tweaks:
+🎨 Style Tweaks:
 Add your own CSS styles, fonts, or animations to create a personalized theme.
 ---
 ### 💡 Enhancements:
