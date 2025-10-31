@@ -15,7 +15,7 @@ It’s lightweight, fully customizable, and deployable anywhere — from **Docke
 ---
 
 ## 🏗️ Project Structure  
-
+```
 Academic-Profile-App/
 │
 ├── index.html # Main HTML page for your academic profile
@@ -23,7 +23,7 @@ Academic-Profile-App/
 ├── Dockerfile # Docker build configuration
 ├── docker_commands.sh # Helper script for building/running Docker container
 └── README.md # Project documentation
-
+```
 ---
 
 ## 🎯 Key Features  
