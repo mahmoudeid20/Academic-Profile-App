@@ -86,13 +86,13 @@ Include JavaScript for interactivity (e.g., pop-ups, tabs, or animations).
 ---
 ### 📦 Deployment
 You can easily host this project on:
-
+```
 GitHub Pages
 
 Netlify
 
 Vercel
-
+```
 Any Docker-supported platform (e.g., Render, AWS, Azure)
 ---
 ### 🤝 Contributing
