@@ -117,7 +117,9 @@ This project is licensed under the MIT License — you’re free to use, modify,
 See the LICENSE file for more details.
 ---
 ### 🧭 Future Roadmap
+```
 🔹 Add a “Projects” or “Publications” section
 🔹 Add multilingual support (English / Arabic)
 🔹 Implement dark/light mode toggle
 🔹 Integrate contact form or downloadable CV
+```
